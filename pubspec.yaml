@@ -26,6 +26,8 @@ dependencies:
   auto_size_text: ^2.1.0
   webfeed: ^0.7.0
   http: ^0.13.3
+  url_launcher: ^6.0.3
+  geolocator: ^7.0.3
 
 
   # The following adds the Cupertino Icons font to your application.
@@ -51,7 +53,7 @@ flutter:
   assets:
     - asset/img/notizie.jpg
     - asset/img/gps.png
-  #   - images/a_dot_ham.jpeg
+    - asset/img/foto.jpg
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
