@@ -28,6 +28,11 @@ dependencies:
   http: ^0.13.3
   url_launcher: ^6.0.3
   geolocator: ^7.0.3
+  image_picker: ^0.7.5+2
+  photofilters: ^2.0.2
+  image: ^3.0.2
+  share: ^2.0.4
+  googleapis: ^3.0.0
 
 
   # The following adds the Cupertino Icons font to your application.
